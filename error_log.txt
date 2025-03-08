@@ -1,4 +1,16 @@
-[08-Mar-2025 21:57:04 Europe/Berlin] PHP Warning:  include(views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\Parcial_No1\controllers\controller.template.php on line 8
-[08-Mar-2025 21:57:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Parcial_No1\controllers\controller.template.php on line 8
-[08-Mar-2025 22:00:25 Europe/Berlin] PHP Warning:  include(views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\first_parcial\controllers\controller.template.php on line 8
-[08-Mar-2025 22:00:25 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\first_parcial\controllers\controller.template.php on line 8
+[07-Mar-2025 03:34:20 Europe/Berlin] PHP Warning:  include(views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\web\controllers\controller.template.php on line 8
+[07-Mar-2025 03:34:20 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\web\controllers\controller.template.php on line 8
+[07-Mar-2025 03:43:02 Europe/Berlin] PHP Warning:  include(views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\web\controllers\controller.template.php on line 8
+[07-Mar-2025 03:43:02 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\web\controllers\controller.template.php on line 8
+[07-Mar-2025 03:43:05 Europe/Berlin] PHP Warning:  include(views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\web\controllers\controller.template.php on line 8
+[07-Mar-2025 03:43:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\web\controllers\controller.template.php on line 8
+[07-Mar-2025 03:43:09 Europe/Berlin] PHP Warning:  include(views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\web\controllers\controller.template.php on line 8
+[07-Mar-2025 03:43:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\web\controllers\controller.template.php on line 8
+[07-Mar-2025 03:43:59 Europe/Berlin] PHP Warning:  include(views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\web\controllers\controller.template.php on line 8
+[07-Mar-2025 03:43:59 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\web\controllers\controller.template.php on line 8
+[07-Mar-2025 03:44:01 Europe/Berlin] PHP Warning:  include(views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\web\controllers\controller.template.php on line 8
+[07-Mar-2025 03:44:01 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\web\controllers\controller.template.php on line 8
+[07-Mar-2025 03:44:02 Europe/Berlin] PHP Warning:  include(views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\web\controllers\controller.template.php on line 8
+[07-Mar-2025 03:44:02 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\web\controllers\controller.template.php on line 8
+[07-Mar-2025 03:47:40 Europe/Berlin] PHP Warning:  include(C:\xampp\htdocs\web\views/views/template.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\web\views\template.php on line 36
+[07-Mar-2025 03:47:40 Europe/Berlin] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\web\views/views/template.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\web\views\template.php on line 36

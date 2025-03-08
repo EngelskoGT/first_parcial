@@ -1,20 +1,18 @@
 <?php
 
-class TemplateController{
+class TemplateController {
 
-  //main view template
-  public function index()
-  {
-    include 'views/template';
+  // Main view template
+  public function index() {
+    include __DIR__ . '/../views/template.php';
   }
 
-  //main route url
-  static public function path()
-  {
-    if(!empty($_SERVER["HTTPS"]) && ('on' == $_SERVER["HTTPS"])){
-      return "https://" . $_SERVER['SERVER_NAME'] . "/";
-    }else{
-      return "http://" . $_SERVER['SERVER_NAME'] . "/";
+  // Main route URL
+  static public function path() {
+    if (!empty($_SERVER["HTTPS"]) && $_SERVER["HTTPS"] == 'on') {
+        return "https://" . $_SERVER['SERVER_NAME'] . "/web/";
+    } else {
+        return "http://" . $_SERVER['SERVER_NAME'] . "/web/";
     }
   }
 }
