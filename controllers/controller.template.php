@@ -10,7 +10,7 @@ class TemplateController {
   // Main route URL
   static public function path() {
     if (!empty($_SERVER["HTTPS"]) && $_SERVER["HTTPS"] == 'on') {
-        return "https://" . $_SERVER['SERVER_NAME'] . "/web/";
+        return "https3000://" . $_SERVER['SERVER_NAME'] . "/web/";
     } else {
         return "http://" . $_SERVER['SERVER_NAME'] . "/web/";
     }

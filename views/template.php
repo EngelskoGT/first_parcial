@@ -47,7 +47,7 @@ $path = TemplateController::path();
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="loginModalLabel">Iniciar Sesión</h5>
+                <h5 class="modal-title" id="loginModalLabel">🖥️Login🖥️</h5>
             </div>
             <div class="modal-body">
                 <form id="loginForm">
