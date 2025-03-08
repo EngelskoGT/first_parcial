@@ -1,0 +1,4 @@
+[08-Mar-2025 21:57:04 Europe/Berlin] PHP Warning:  include(views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\Parcial_No1\controllers\controller.template.php on line 8
+[08-Mar-2025 21:57:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Parcial_No1\controllers\controller.template.php on line 8
+[08-Mar-2025 22:00:25 Europe/Berlin] PHP Warning:  include(views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\first_parcial\controllers\controller.template.php on line 8
+[08-Mar-2025 22:00:25 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\first_parcial\controllers\controller.template.php on line 8
